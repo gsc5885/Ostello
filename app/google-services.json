@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61042940551",
+    "firebase_url": "https://ostello-80317.firebaseio.com",
+    "project_id": "ostello-80317",
+    "storage_bucket": "ostello-80317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61042940551:android:9cfc689fffebf516",
+        "android_client_info": {
+          "package_name": "com.bitfield.ostello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61042940551-0olq2shhlhqc7fu2hktshcv8bsffcvu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitfield.ostello",
+            "certificate_hash": "759395082da9ca5addeaa740cd00e4e7acff805a"
+          }
+        },
+        {
+          "client_id": "61042940551-ed4btsgvoe7tn9qroth64aiuo1704puo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07tVxcI2UzovFca3bBT6zJQDtk0oziaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61042940551-ed4btsgvoe7tn9qroth64aiuo1704puo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
